@@ -1,7 +1,6 @@
 # RPG Assistant (RAG-based)
 
 A RAG-based chatbot that answers questions about any document in PDF format.
-Built and tested with tabletop RPG manuals.
 
 ## Features
 - Upload any PDF directly from the web interface
@@ -23,8 +22,8 @@ Built and tested with tabletop RPG manuals.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tuusuario/rpg-rag-assistant.git
-cd rpg-rag-assistant
+git clone https://github.com/tuusuario/pdf-assistant.git
+cd pdf-assistant
 ```
 
 2. Create and activate a virtual environment:
